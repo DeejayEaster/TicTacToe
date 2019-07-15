@@ -1,2 +1,3 @@
 # TicTacToe
-fun little game build with jquery
+
+Fun little game built while playing around with jquery.
